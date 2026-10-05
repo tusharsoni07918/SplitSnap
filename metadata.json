@@ -1,0 +1,6 @@
+{
+  "name": "SplitSnap",
+  "description": "Split the bill. Keep the friendship. A fast and elegant bill-splitting app with exact remainder distribution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
